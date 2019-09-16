@@ -10,5 +10,5 @@ func main(){
 	fmt.Println(x)
 	fmt.Println(y)
 	fmt.Println(z)
-	// Answer to question b):These values are called THE ZERO VALUES
+	// Answer to the question b):These values are called THE ZERO VALUES
 }
