@@ -1,4 +1,4 @@
-package main
+package Excersise___Ninja_Level_1
 
 import(
 	"fmt"
