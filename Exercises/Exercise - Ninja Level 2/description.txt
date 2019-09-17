@@ -26,3 +26,7 @@ Write a program that:
 		d) prints that variable in decimal, binary, and hex
 solution: https://play.golang.org/p/Ms964T8SbH 
 
+Hands-on exercise #5
+Create a variable of type string using a raw string literal and print it.
+solution: https://play.golang.org/p/dLy36A-V-w 
+
