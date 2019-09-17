@@ -18,3 +18,11 @@ Hands-on exercise #3
 2. Print the values of the constants.
 solution: https://play.golang.org/p/NutvJXWUx2 
 
+Hands-on exercise #4
+Write a program that: 
+		a) assigns an int to a variable
+		b) prints that int in decimal, binary, and hex
+		c) shifts the bits of that int over 1 position to the left, and assigns that to a variable
+		d) prints that variable in decimal, binary, and hex
+solution: https://play.golang.org/p/Ms964T8SbH 
+
