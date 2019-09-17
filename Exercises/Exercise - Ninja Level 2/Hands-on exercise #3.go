@@ -17,5 +17,5 @@ const(
 )
 
 func main ()	{
-	fmt.Printf("%v\t%v\t%v\t%v\t%v\t%v\t", a, b, c, d, e, f)	//VALUE in the default format, in one line, TAb between each other
+	fmt.Printf("%v\t%v\t%v\t%v\t%v\t%v\t", a, b, c, d, e, f)	// VALUE in the default format, in one line, TAb between each other
 }
