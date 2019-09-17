@@ -8,12 +8,12 @@ func main ()	{
 	x := 23
 	y := 15
 	fmt.Println(x == y)
-	fmt.Println(x <=y)
+	fmt.Println(x <= y)
 	fmt.Println(x >= y)
 	fmt.Println(x != y)
 	fmt.Println(x < y)
 	fmt.Println(x > y)
-	fmt.Printf("\n")		// Only shows new line
+	fmt.Printf("\n")		// Only adds a new line
 
 	// Another method for the same result:
 
