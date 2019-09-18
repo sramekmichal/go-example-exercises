@@ -30,3 +30,7 @@ Hands-on exercise #5
 Create a variable of type string using a raw string literal and print it.
 solution: https://play.golang.org/p/dLy36A-V-w 
 
+Hands-on exercise #6
+Using iota, create 4 constants for the NEXT 4 years, then print the constant values.
+solution: https://play.golang.org/p/MDLF3v5EGT 
+
