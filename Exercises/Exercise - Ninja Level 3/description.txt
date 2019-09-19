@@ -21,3 +21,16 @@ Hands-on exercise #3
 1. Create a for loop using this syntax: for condition {}
 2. Have it print out the years you have been alive.
 solution: https://play.golang.org/p/tnyqBPJ-i5
+
+Hands-on exercise #4
+1. Create a for loop using this syntax: for {}
+2. Have it print out the years you have been alive.
+solution: https://play.golang.org/p/9VpnB-I1Pz
+
+Hands-on exercise #5
+1. Print out the remainder (modulus) which is found for each number between 10 and 100 when it is divided by 4.
+solution: https://play.golang.org/p/ohfJOW9euy
+
+Hands-on exercise #6
+1. Create a program that shows the “if statement” in action.
+solution: https://play.golang.org/p/DpZ_FLfn5s
