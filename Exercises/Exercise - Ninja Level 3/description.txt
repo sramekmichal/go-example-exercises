@@ -34,3 +34,13 @@ solution: https://play.golang.org/p/ohfJOW9euy
 Hands-on exercise #6
 1. Create a program that shows the “if statement” in action.
 solution: https://play.golang.org/p/DpZ_FLfn5s
+
+Hands-on exercise #7
+Building on the previous hands-on exercise, create a program that uses “else if” and “else”.
+solution: https://play.golang.org/p/IDnrJpE7vT
+
+Hands-on exercise #8
+Create a program that uses a switch statement with no switch expression specified.
+solution: https://play.golang.org/p/YpPgkWGqKY
+
+

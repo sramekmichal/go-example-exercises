@@ -9,9 +9,6 @@ func main() {
 	} else if x < 500 {
 		fmt.Println("Wrong Way")
 	} else {
-		 	fmt.Println(x)
+		fmt.Println(x)
 	}
-
-
-
 }
