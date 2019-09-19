@@ -43,4 +43,18 @@ Hands-on exercise #8
 Create a program that uses a switch statement with no switch expression specified.
 solution: https://play.golang.org/p/YpPgkWGqKY
 
+Hands-on exercise #9
+Create a program that uses a switch statement with the switch expression specified as a variable of TYPE string with the IDENTIFIER “favSport”.
+solution: https://play.golang.org/p/h-8FnjpzWB
+
+Hands-on exercise #10
+1. Write down what these print:
+        a)fmt.Println(true && true)
+        b) fmt.Println(true && false)
+        c) fmt.Println(true || true)
+        d) fmt.Println(true || false)
+        e) fmt.Println(!true)
+solution: a) true; b) false; c) true; d) true; e) false
+
+
 
