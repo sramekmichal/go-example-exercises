@@ -36,3 +36,11 @@ Follow these steps - start with this slice: x := []int{42, 43, 44, 45, 46, 47, 4
 6. print out the slice
 solution: https://play.golang.org/p/QUYhtSBaDS
 
+Hands-on exercise #5
+To DELETE from a slice, we use APPEND along with SLICING. For this hands-on exercise, follow these steps:
+1. Start with this slice: x := []int{42, 43, 44, 45, 46, 47, 48, 49, 50, 51}
+2. use APPEND & SLICING to get these values here which you should ASSIGN to a variable “y” and then print:
+        a) [42, 43, 44, 48, 49, 50, 51]
+solution: https://play.golang.org/p/u8zpHLfgSE
+
+
