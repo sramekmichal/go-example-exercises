@@ -14,3 +14,11 @@ Hands-on exercise #2
 3. Using format printing print out the TYPE of the slice
 solution: https://play.golang.org/p/sAQeFB7DIs
 
+Hands-on exercise #3
+1. Use SLICING to create the following new slices which are then printed:
+        a) [42 43 44 45 46]
+        b) [47 48 49 50 51]
+        c) [44 45 46 47 48]
+        d) [43 44 45 46 47]
+2. Print the values out.
+solution: https://play.golang.org/p/SGfiULXzAB
