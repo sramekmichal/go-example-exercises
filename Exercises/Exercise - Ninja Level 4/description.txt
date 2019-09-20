@@ -22,3 +22,17 @@ Hands-on exercise #3
         d) [43 44 45 46 47]
 2. Print the values out.
 solution: https://play.golang.org/p/SGfiULXzAB
+
+Hands-on exercise #4
+Follow these steps - start with this slice: x := []int{42, 43, 44, 45, 46, 47, 48, 49, 50, 51}
+1. append to that slice this value: 52
+2. print out the slice
+3. in ONE STATEMENT append to that slice these values:
+        a) 53
+        b) 54
+        c) 55
+4. print out the slice
+5. append to the slice this slice: y := []int{56, 57, 58, 59, 60}
+6. print out the slice
+solution: https://play.golang.org/p/QUYhtSBaDS
+
