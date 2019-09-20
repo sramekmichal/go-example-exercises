@@ -59,6 +59,18 @@ Hands-on exercise #7
 2. Range over the records, then range over the data in each record.
 solution: https://play.golang.org/p/FMM4c2PhZg
 
+Hands-on exercise #8
+1. Create a map with a key of TYPE string which is a person’s “last_first” name,
+        a) `bond_james`
+        b) `moneypenny_miss`
+        c) `no_dr
+2. Store three records in your map by adding a value of TYPE []string which stores their favorite things.
+        a) `Shaken, not stirred`, `Martinis`, `Women`
+        b) `James Bond`, `Literature`, `Computer Science`
+        c) `Being evil`, `Ice cream`, `Sunsets`
+3.  Print out all of the values, along with their index position in the slice.
+solution: https://play.golang.org/p/nTzSlRa9_A
+
 
 
 
