@@ -1,0 +1,42 @@
+Hands-on exercise #1
+1. Create your own type “person” which will have an underlying type of “struct” so that it can store the following data:
+        a) first name
+        b) last name
+        c) favorite ice cream flavors
+2. Create two VALUES of TYPE person.
+3. Print out the values, ranging over the elements in the slice which stores the favorite flavors.
+solution: https://play.golang.org/p/ouRHmH_POg
+
+Hands-on exercise #2
+1. Take the code from the previous exercise, then store the values of type person in a map with the key of last name.
+2. Access each value in the map.
+3. Print out the values, ranging over the slice.
+solution: https://play.golang.org/p/RvvLyAMvGo
+
+Hands-on exercise #3
+1. Create a new type: vehicle.
+        a) create the underlying "struct"
+2. Create the fields:
+        a) doors
+        b) color
+3. Create two new types:
+        a) truck
+        b) sedan
+4. The underlying type of each of these new types is a struct.
+5. Embed the “vehicle” type in both truck & sedan.
+6. Give truck the field “fourWheel” which will be set to bool.
+7. Give sedan the field “luxury” which will be set to bool.
+8. Using the vehicle, truck, and sedan structs:
+        a) using a composite literal, create a value of type truck and assign values to the fields;
+        b) using a composite literal, create a value of type sedan and assign values to the fields.
+9. Print out each of these values.
+10. Print out a single field from each of these values.
+solution: https://play.golang.org/p/PrTtTv_vVO
+
+Hands-on exercise #4
+1. Create and use an anonymous struct.
+solution: https://play.golang.org/p/otBHFs-lPp
+
+
+
+
