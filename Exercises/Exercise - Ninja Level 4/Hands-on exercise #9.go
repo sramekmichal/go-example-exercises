@@ -10,6 +10,8 @@ func main() {
 	}
 	fmt.Println(m)
 
+	m["vomacka_franta"] = []string{`You shall ask me`, "Food", "Cars"}		// Added a note to a map
+
 	b := "\nFavourite things:"
 
 	for key, value := range m {

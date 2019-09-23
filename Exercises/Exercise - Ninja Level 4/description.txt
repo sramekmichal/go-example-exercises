@@ -71,6 +71,17 @@ Hands-on exercise #8
 3.  Print out all of the values, along with their index position in the slice.
 solution: https://play.golang.org/p/nTzSlRa9_A
 
+Hands-on exercise #9
+1. Using the code from the previous example, add a record to your map.
+2. Now print the map out using the “range” loop (already done).
+solution: https://play.golang.org/p/_CkxAhRrDJ
+
+Hands-on exercise #10
+1. Using the code from the previous example, delete a record from your map.
+2. Now print the map out using the “range” loop (already done).
+solution: https://play.golang.org/p/TYl5EbjoeC
+
+
 
 
 

@@ -10,6 +10,9 @@ func main() {
 	}
 	fmt.Println(m)
 
+	m["vomacka_franta"] = []string{`You shall ask me`, "Food", "Cars"}
+	delete(m, "no_dr")			// Added a note to delete
+
 	b := "\nFavourite things:"
 
 	for key, value := range m {
