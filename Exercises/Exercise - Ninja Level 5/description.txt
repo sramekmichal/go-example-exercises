@@ -35,6 +35,7 @@ solution: https://play.golang.org/p/PrTtTv_vVO
 
 Hands-on exercise #4
 1. Create and use an anonymous struct.
+2. (OPTIONAL) - try storing one field of the data type "map", try storing another field of the data type "slice" and use that data to print it out
 solution: https://play.golang.org/p/otBHFs-lPp
 
 
