@@ -4,3 +4,13 @@ Hands on exercise #1
 3. Call both funcs (variables)
 4. Print out their results
 solution: https://play.golang.org/p/owEJNF5WAD
+
+Hands-on exercise #2
+1. Create a func with the identifier foo that:
+        a) takes in a variadic parameter of type int
+        b) pass in a value of type []int into your func (unfurl the []int)
+        c) returns the sum of all values of type int passed in
+2.Create a func with the identifier bar that:
+        a) takes in a parameter of type []int
+        b) returns the sum of all values of type int passed in
+solution: https://play.golang.org/p/B0yRxtBQPD
