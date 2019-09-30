@@ -1,0 +1,6 @@
+Hands on exercise #1
+1. Create a func with the identifier foo that returns an int.
+2. Create a func with the identifier bar that returns an int and a string.
+3. Call both funcs (variables)
+4. Print out their results
+solution: https://play.golang.org/p/owEJNF5WAD
