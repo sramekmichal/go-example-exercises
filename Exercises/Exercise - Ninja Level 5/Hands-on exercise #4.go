@@ -4,16 +4,16 @@ import "fmt"
 
 func main() {
 	a := struct {
-		first_name string
-		friends map[string]int
+		first_name       string
+		friends          map[string]int
 		favourite_drinks []string
 	}{
 		first_name: "Mike",
 		friends: map[string]int{
-			"John": 55,
-			"Maribel": 28,
-			"Mr. DJ": 32,
-			"George": 46,
+			"John":    55,
+			"Maribel": 29,
+			"Mr. DJ":  32,
+			"George":  46,
 		},
 		favourite_drinks: []string{
 			"Pinacolada",
@@ -28,6 +28,7 @@ func main() {
 	for k, v := range a.friends {
 		fmt.Println(k, v)
 	}
+
 	for k2, v2 := range a.favourite_drinks {
 		fmt.Println(k2, v2)
 	}
