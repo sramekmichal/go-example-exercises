@@ -14,3 +14,58 @@ Hands-on exercise #2
         a) takes in a parameter of type []int
         b) returns the sum of all values of type int passed in
 solution: https://play.golang.org/p/B0yRxtBQPD
+
+Hands-on exercise #3
+1. Use the “defer” keyword to show that a deferred func runs after the func containing it exits.
+solution: https://play.golang.org/p/XluEuUD0Nw
+
+Hands-on exercise #4
+1. Create a user defined struct with:
+        a) the identifier “person”
+        b) the fields:
+                first
+                last
+                age
+2. Attach a method to type person with:
+        a) the identifier “speak”
+        b) the method should have the person say their name and age
+3. Create a value of type person
+4. Call the method from the value of type person
+solution: https://play.golang.org/p/NnXyWdqbbw
+
+Hands-on exercise #5
+1. Create a type SQUARE.
+2. Create a type CIRCLE.
+3. Attach a method to each that calculates AREA and returns it:
+        a) circle area= π r 2
+        b) square area = L * W
+4. Create a type SHAPE that defines an interface as anything that has the AREA method.
+5. Create a func INFO which takes type shape and then prints the area.
+6. Create a value of type SQUARE.
+7. Create a value of type CIRCLE.
+8. Use func info to print the area of SQUARE.
+9. Use func info to print the area of CIRCLE.
+solution: https://play.golang.org/p/NGGikHNvHv
+
+Hands-on exercise #6
+1. Build and use an anonymous func.
+solution: https://play.golang.org/p/DQX3xEIcRe
+
+Hands-on exercise #7
+1. Assign a func to a variable, then call that func
+solution: https://play.golang.org/p/_Qu7ZAyFDH
+
+Hands-on exercise #8
+1. Create a func which returns a func.
+2. Assign the returned func to a variable.
+3. Call the returned func.
+code: https://play.golang.org/p/c2HwqVE1Rd
+
+Hands-on exercise #9
+A “callback” is when we pass a func into a func as an argument. For this exercise,
+pass a func into a func as an argument
+solution: https://play.golang.org/p/0yGYPKh1y7
+
+Hands-on exercise #10
+Closure is when we have “enclosed” the scope of a variable in some code block. For this hands-on exercise, create a func which “encloses” the scope of a variable:
+solution: https://play.golang.org/p/a56uWtoFSL
