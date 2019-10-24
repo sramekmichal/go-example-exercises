@@ -1,4 +1,4 @@
-##Hands-on exercise #1
+## Hands-on exercise #1
 1. Create a value and assign it to a variable.
 2. Print the address of that value.
 
