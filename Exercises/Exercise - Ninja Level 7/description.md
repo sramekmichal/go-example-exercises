@@ -11,10 +11,10 @@
      - [x] Change the value stored at the *person address.
      
      Important: 
-     - a) to dereference a struct, use (*value).field, for:
+     - to dereference a struct, use (*value).field, for:
          - p1.first 
          - (*p1).first
-     - b) “As an exception, if the type of x is a named pointer type and (*x).f is a valid selector expression denoting a field (but not a method), x.f is shorthand for (*x).f.” (https://golang.org/ref/spec#Selectors)
+     -  “As an exception, if the type of x is a named pointer type and (*x).f is a valid selector expression denoting a field (but not a method), x.f is shorthand for (*x).f.” (https://golang.org/ref/spec#Selectors)
 3. Create a value of type person and print out the value-
 4. In func main call “changeMe” and print out the value.
 

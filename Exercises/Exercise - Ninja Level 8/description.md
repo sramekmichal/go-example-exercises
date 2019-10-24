@@ -22,8 +22,8 @@
 
 ## Hands-on exercise #5
 1. Starting with this code (https://play.golang.org/p/BVRZTdlUZ_),sort the []user by:
-      -[x] age
-      -[x] last
+      - [x] age
+      - [x] last
 2. Sort each []string “Sayings” for each user.
 3. Print everything in a way that is pleasant.
 
