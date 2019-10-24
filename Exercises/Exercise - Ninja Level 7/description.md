@@ -8,7 +8,7 @@
 1. Create a person struct.
 2. Create a func called “changeMe” with a *person as a parameter,
     
-     -[x] Change the value stored at the *person address.
+     - [x] Change the value stored at the *person address.
      
      Important: 
      - a) to dereference a struct, use (*value).field, for:
