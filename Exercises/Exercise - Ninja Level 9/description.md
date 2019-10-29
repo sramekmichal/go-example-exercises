@@ -44,4 +44,4 @@ Here is a hint if you need some help: https://play.golang.org/p/FAwcQbNtMG
 
 Here is a hint if you need some help: https://play.golang.org/p/FYGoflKQej 
 
-**solution:**: https://github.com/GoesToEleven/go-programming 
+**solution:** https://github.com/GoesToEleven/go-programming 
