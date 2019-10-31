@@ -61,6 +61,6 @@ Here is a hint if you need some help: https://play.golang.org/p/FYGoflKQej
 1. Create a program that prints out your OS and ARCH - use the following commands to run it:
       1. go run
       2. go build
-      3. go instal
+      3. go install
       
 **solution:** https://github.com/GoesToEleven/go-programming 
