@@ -29,3 +29,7 @@
    - long "99.4656 W"
 
 **solution:** https://play.golang.org/p/nsRxbDfkCh 
+
+## Hands-on exercise #5
+1. Take a moment and see how much you can figure out about testing by reading the testing documentation (https://godoc.org/testing) & also Caleb Doxsey’s article on testing (http://www.golang-book.com/books/intro/12). 
+2. Get a basic example of testing working. 
