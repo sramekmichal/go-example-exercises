@@ -6,14 +6,14 @@ import (
 	"log"
 )
 
-type person struct {
+type person2 struct {
 	First   string
 	Last    string
 	Sayings []string
 }
 
 func main() {
-	p1 := person{
+	p1 := person2{
 		First:   "James",
 		Last:    "Bond",
 		Sayings: []string{"Shaken, not stirred", "Any last wishes?", "Never say never"},
