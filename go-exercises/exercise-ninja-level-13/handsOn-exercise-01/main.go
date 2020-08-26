@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/GoesToEleven/go-programming/code_samples/010-ninja-level-thirteen/01/starting-code/dog"
+	"github.com/sramek5/example/go-exercises/exercise-ninja-level-13/handsOn-exercise-01/dog"
 )
 
 type canine struct {
@@ -16,5 +16,5 @@ func main() {
 		age:  dog.Years(10),
 	}
 	fmt.Println(fido)
-	fmt.Println(dog.YearsTwo(20))
+	fmt.Println(dog.YearsTwo(10))
 }
